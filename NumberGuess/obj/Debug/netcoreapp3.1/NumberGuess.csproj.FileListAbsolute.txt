@@ -1,0 +1,12 @@
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.exe
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.deps.json
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.json
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.dev.json
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.dll
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.pdb
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfoInputs.cache
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfo.cs
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.dll
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.pdb
+C:\Users\dakota.krogmeier\source\repos\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.genruntimeconfig.cache
